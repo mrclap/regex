@@ -6,14 +6,14 @@
 간단한 테스트 : [regexr.com](https://regexr.com/)
 ### patterns of Regular expression
 
-####^, $
+#### ^, $
 - ^: 시작
   - ^who : who로 시작하는 것들
   
 - $: 끝
   - end$ : end로 끝나는 것들
 
-####. (point)
+#### . (point)
 - Any character
 - . : 1개 문자로 끝나는 것
 - ...... : 5개 문자로 구성된 것 (5개 덩어리 단위로 선택 됨)
